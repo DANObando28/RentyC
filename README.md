@@ -60,3 +60,5 @@ Por ejemplo para iniciar una nueva aplicación correr
 ```bash
 $ docker-compose run web django-admin.py startapp <Nombre de la app>
 ```
+
+https://app.codeship.com/projects/107e8a80-cb3d-0136-6079-7ac47e203827/status?branch=master
